@@ -1,0 +1,27 @@
+{
+    "IOSBuildConfig": {
+        "product_name": "",
+        "build_name": "",
+        "package": "",
+        "bundle_version": "1.0.0",
+        "bundle_version_code": "1",
+        "apptracking_localization_version":"Version1",
+        "camera_permission_version": "Version1",
+        "obfuscator":"ops",
+        "use_fb_lib": true,
+        "use_af_lib": true
+    },
+    "AndroidBuildConfig": {
+        "product_name": "",
+        "build_name": "",
+        "package": "",
+        "bundle_version": "1.0.0",
+        "bundle_version_code": 1,
+        "keystore_name": "",
+        "android_min_sdk": 24,
+        "android_target_sdk": 34,
+        "obfuscator":"ops",
+        "use_fb_lib": true,
+        "use_af_lib": true
+    }
+}

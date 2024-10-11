@@ -1,0 +1,27 @@
+{
+    "IOSBuildConfig": {
+        "product_name": "Oshi 24",
+        "build_name": "Oshi",
+        "package": "oshi.twenty.four",
+        "bundle_version": "1.0.1",
+        "bundle_version_code": "1",
+        "apptracking_localization_version":"Version2",
+        "camera_permission_version": "Version2",
+        "obfuscator":"ops",
+        "use_fb_lib": true,
+        "use_af_lib": true
+    },
+    "AndroidBuildConfig": {
+        "product_name": "Oshi 24",
+        "build_name": "Oshi",
+        "package": "oshi.twenty.four",
+        "bundle_version": "1.0.1",
+        "bundle_version_code": "1",
+        "keystore_name": "oshitwentyfour_release",
+        "android_min_sdk": 24,
+        "android_target_sdk": 34,
+        "obfuscator":"ops",
+        "use_fb_lib": true,
+        "use_af_lib": true
+    }
+}

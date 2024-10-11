@@ -1,0 +1,8 @@
+{
+    "IOSBuildHelper":{
+        "builds_root":"/Users/denispiskunov/MINT/iOS_builds/demo/store_builds/"
+    },
+    "AndroidBuildHelper":{
+        "builds_root":"z:/Android_builds/demo_games/"   
+    }
+}
